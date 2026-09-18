@@ -1,1 +1,2 @@
-# Automatic-Attendence-2
+# python_project
+this is an Automatic attendence system using face recognition.
